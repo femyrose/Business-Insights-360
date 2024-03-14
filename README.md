@@ -4,9 +4,9 @@
 
 AtliQ Hardware a rapidly growing company in recent years, has decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors  in the market and to make data-driven decisions. This project aims to answer stakeholder questions regarding aspects like finance, sales, marketing, and supply  chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analya sis-with-end-to-end-project)
+I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/)
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNjYxZjI5YjYtZThand kZi00MGU1LTk2ZTUtOGNhNzY2ZDY4NTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond3171d78e1b90ae50a2e)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMmNjMDVhYmEtMmEwYS00OTk4LWE2ZTMtZDBiZWJkZGJkNTFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond3171d78e1b90ae50a2e)
 
 ## Tech stacks
 
@@ -170,7 +170,7 @@ On the Home Page, all the views button will be available. The user will be follo
 <img src="https://github.com/femyrose/Business-Insights-360/blob/main/Executive%20View-bi360.png" class="center">
 
 
-you can find the Live Dashboard here : [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmNjMDVhYmEtMmEwYS00OTk4LWE2ZTMtZDBiZWJkZGJkNTFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond3171d78e1b90ae50a2e)
+you can find the Live Report here : [Live Report](https://app.powerbi.com/view?r=eyJrIjoiMmNjMDVhYmEtMmEwYS00OTk4LWE2ZTMtZDBiZWJkZGJkNTFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond3171d78e1b90ae50a2e)
 
 
 ## Project Outcome

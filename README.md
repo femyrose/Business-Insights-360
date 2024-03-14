@@ -147,27 +147,27 @@ On the Home Page, all the views button will be available. The user will be follo
 - Products
 - Support
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Homepage-bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/Homepage-bi360.png" class="center">
 
 ### Finance View
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/finance_view-bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/finance_view-bi360.png" class="center">
 
 ### Sales View
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Sales%20View-%20bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/Sales%20View-%20bi360.png" class="center">
 
 ### Marketing View
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Marketing%20View%20bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/Marketing%20View%20bi360.png" class="center">
 
 ### Supply chain View
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Supply%20chain%20view%20-bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/Supply%20chain%20view%20-bi360.png" class="center">
 
 ### Executive View
 
-<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Executive%20View-bi360.png" class="center">
+<img src="https://github.com/femyrose/Business-Insights-360/blob/main/Dashboard%20Views/Executive%20View-bi360.png" class="center">
 
 
 you can find the Live Report here : [Live Report](https://app.powerbi.com/view?r=eyJrIjoiMmNjMDVhYmEtMmEwYS00OTk4LWE2ZTMtZDBiZWJkZGJkNTFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond3171d78e1b90ae50a2e)

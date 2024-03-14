@@ -134,10 +134,6 @@ Fact table : It will have the data about the transactions
 
 ## Dashboard designing
 
-### Overall Report
-
-
-
 ### Home Page
 
 In Home Page, all the views button will be available. User will be followed to the corresponding page by clicking the button 
